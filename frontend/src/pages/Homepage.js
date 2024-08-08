@@ -35,7 +35,7 @@
 //         borderWidth="1px"
 //       >
 //         <Text fontSize="4xl" fontFamily="Work sans">
-//           Talk-A-Tive
+//           Sync-it
 //         </Text>
 //       </Box>
 //       <Box bg="white" w="100%" p={4} borderRadius="lg" borderWidth="1px">
@@ -107,7 +107,7 @@ function Homepage() {
           fontWeight="bold"           // make the title bold
           textAlign="center"          // center the title
         >
-          Talk-A-Tive
+          Sync-it
         </Text>
       </Box>
       <Box
